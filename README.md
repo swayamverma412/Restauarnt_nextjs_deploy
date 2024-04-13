@@ -1,3 +1,6 @@
+# Restaurant Demo Website
+Restaurant using Next.js is a web application showcasing a restaurant's menu and location. It features a Google Map link for easy navigation, highlights trending dishes based on ratings, allows for the addition of food images, and offers filters by category and season. Additionally, a reservation system or user reviews could enhance the website's.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
